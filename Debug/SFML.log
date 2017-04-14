@@ -1,5 +1,8 @@
-﻿  main.cpp
-e:\visual studio 2017\projects\sfml\sfml\main.cpp(2): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Player.h': No such file or directory
-  Player.cpp
-e:\visual studio 2017\projects\sfml\sfml\player.cpp(1): fatal error C1083: Nie można otworzyć pliku dołącz: 'SFML/Player.h': No such file or directory
-  Generowanie kodu...
+﻿  Player.cpp
+  main.cpp
+  Animation.cpp
+e:\visual studio 2017\projects\sfml\sfml\animation.cpp(11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\visual studio 2017\projects\sfml\sfml\animation.cpp(12): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  SFML.vcxproj -> E:\visual studio 2017\Projects\SFML\Debug\SFML.exe
+  SFML.vcxproj -> E:\visual studio 2017\Projects\SFML\Debug\SFML.pdb (Partial PDB)
